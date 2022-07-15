@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![https://github.com/LwinHtooA3ng/Flutter_dice_app/blob/master/dice.gif]
+![](https://github.com/LwinHtooA3ng/Flutter_dice_app/blob/master/dice.gif)
 
 ## Getting Started
 
